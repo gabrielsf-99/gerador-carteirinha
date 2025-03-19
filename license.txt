@@ -1,3 +1,3 @@
 {
-    "E.E. Jardim das Palmeiras": "Desactivate"
+    "E.E. Jardim das Palmeiras": "Activate"
 }
